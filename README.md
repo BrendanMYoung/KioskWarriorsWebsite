@@ -11,7 +11,7 @@ Jason - Frontend
 Geran - Documentation/Backend
 
 #Synopsis
-Awaiting Approval
+The purpose of the project is to automate the employer/student interactions during career fair. This includes signing up for and signing into interviews. Employers will be able to create as many schedules as they need depending on how many interviewers they decide to bring to interview day.  After deciding which students they will interview, employers will be able to schedule the students on any of their schedules as long as the student is available during the chosen interview block. Each student will also have their own schedule which will let them view, cancel, and check in to interviews. When a student checks in or cancels an interview, the interviewer gets notified via a change in status of the interview object on their schedule. The student’s schedule view will also help the student know where to go for their interview by including details such as which “zone” they will be interviewed in. The application must also be able to export all schedule data to Symplicity’s systems. 
 
 
 # Hours
