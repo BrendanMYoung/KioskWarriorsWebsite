@@ -28,4 +28,4 @@ The purpose of the project is to automate the employer/student interactions duri
 
 
 ## Keywords
-Career, Fair, Scheduleing, Simplicity, Interview
+Career, Fair, Scheduling, Symplicity, Interview
