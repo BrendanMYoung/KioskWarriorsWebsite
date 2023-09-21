@@ -27,6 +27,7 @@ The purpose of the project is to automate the employer/student interactions duri
 | =                    | Total Hours for Week        | 18           | 18           | 0            | 0            | 0            | 0            | 0            | 0            | 0             | 0             | 0             | 0             | 0             | 0             |
 
 ## Domain Model
+![Domain Model](domain_model.png)
 [Domain Model.pdf](https://github.com/BrendanMYoung/KioskWarriorsWebsite/files/12694047/Domain.Model.pdf)
 
 ## Keywords
