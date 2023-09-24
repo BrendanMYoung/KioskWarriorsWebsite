@@ -11,7 +11,7 @@ Jason - Frontend<br>
 Geran - Documentation/Backend<br>
 
 ## Synopsis
-The purpose of the project is to automate the employer/student interactions during the career fair. This includes signing up for and signing into interviews. Employers can create as many schedules as needed depending on how many interviewers they decide to bring to interview day.  After determining which students they will interview, employers can schedule the students on any of their schedules as long as the student is available during the chosen interview block. Each student will also have their own schedule which will let them view, cancel, and check in to interviews. When a student checks in or cancels an interview, the interviewer gets notified via a change in the status of the interview object on their schedule. The student’s schedule view will also help the student know where to go for their interview by including details such as which “zone” they will be interviewed in. The application must also be able to export all schedule data to Symplicity’s systems. 
+The purpose of the project is to automate the employer/student interactions during the career fair. This includes signing up for and signing into interviews. Employers can create as many schedules as needed depending on how many interviewers they decide to bring to interview day.  After determining which students they will interview, employers can schedule the students on any of their schedules as long as the student is available during the chosen interview block. Each student will also have their own schedule which will let them view, cancel, and check in to interviews. When a student checks in or cancels an interview, the interviewer gets notified via a change in the status of the interview object on their schedule. The student’s schedule view will also help the student know where to go for their interview by including details such as which “zone” they will be interviewed in. The application must also be able to export all scheduled data to Symplicity’s systems. 
 
 ## Hours
 [Link to hours](https://docs.google.com/spreadsheets/d/1xAHLvo-fBwB6ZvhZdQ5gmMZXveX7XbWQiBJ8mm3cors/edit?usp=sharing)
@@ -34,25 +34,25 @@ The purpose of the project is to automate the employer/student interactions duri
 ## Development Methodology
 ### Reasoning
 Our team has decided to go with an agile methodology to achieve the frequent deliverables required for this project. There are a few main factors contributing to our decision: <br>
-Frequent customer involvement<br>
-Evolutionary artifacts<br>
-Rapid Prototyping<br>
-Relatively simple system design<br>
-Real world and educational experience<br>
-### Chosen Methodolgy:
-Scrum is our chosen methodology, and we will be using trello to track our backlog of tasks / stories for the development. The board will have the following 5 active columns: <br>
-Sprint Backlog<br>
-In Progress<br>
-Ready for Tests<br>
-In Tests<br>
-Done<br>
+-Frequent customer involvement<br>
+-Evolutionary artifacts<br>
+-Rapid Prototyping<br>
+-Relatively simple system design<br>
+-Real-world and educational experience<br>
+### Chosen Methodology:
+Scrum is our chosen methodology, and we will be using Trello to track our backlog of tasks/stories for development. The board will have the following 5 active columns: <br>
+-Sprint Backlog<br>
+-In Progress<br>
+-Ready for Tests<br>
+-In Tests<br>
+-Done<br>
 
 ### Metrics:
 Sprint Velocity: N/A <br>
 Learnability: N/A<br>
 Ease of use: N/A<br>
 Defects: N/A<br>
-Test MEtrics:N/A<br>
+Test Metrics:N/A<br>
 ## Milestones
 Authentication with Symplicity <br>
 Backend dataflow<br>
