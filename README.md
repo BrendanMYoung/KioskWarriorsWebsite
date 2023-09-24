@@ -31,5 +31,38 @@ The purpose of the project is to automate the employer/student interactions duri
 
 [Domain Model.pdf](https://github.com/BrendanMYoung/KioskWarriorsWebsite/files/12694047/Domain.Model.pdf)
 
+## Development Methodology
+### Our team has decided to go with an agile methodology to achieve the frequent deliverables required for this project. There are a few main factors contributing to our decision: <br>
+Frequent customer involvement<br>
+Evolutionary artifacts<br>
+Rapid Prototyping<br>
+Relatively simple system design<br>
+Real world and educational experience<br>
+### With our chosen agile methodolgy being Scrum, our board will be populated with: <br>
+Sprint Backlog<br>
+In Progress<br>
+Ready for Tests<br>
+In Tests<br>
+Done<br>
+
+### Metrics:
+Sprint Velocity: N/A <br>
+Learnability: N/A<br>
+Ease of use: N/A<br>
+Defects: N/A<br>
+Test MEtrics:N/A<br>
+## Milestones
+Authentication with Symplicity <br>
+Backend dataflow<br>
+Scheduling<br>
+Employer View<br>
+Student View<br>
+Interview Notifications<br>
+Administration Tools<br>
+
+
+## Communication Plan
+Our communication plan is to meet with our stakeholders every Thursday to go over requirements, project process, and any questions we have concerning the project. Everytime we finish a deliverable, the communications lead will send it to both our coach and the sponsors for their feedback. We also have our coach present in the discord, so he is easily able to get in contact with us whenever needed. Furthermore, additional stakeholder management will come in the form of demoing our prototype to them at the end of each development cycle.
+
 ## Keywords
 Career, Fair, Scheduling, Symplicity, Interview
