@@ -32,13 +32,15 @@ The purpose of the project is to automate the employer/student interactions duri
 [Domain Model.pdf](https://github.com/BrendanMYoung/KioskWarriorsWebsite/files/12694047/Domain.Model.pdf)
 
 ## Development Methodology
-### Our team has decided to go with an agile methodology to achieve the frequent deliverables required for this project. There are a few main factors contributing to our decision: <br>
+### Reasoning
+Our team has decided to go with an agile methodology to achieve the frequent deliverables required for this project. There are a few main factors contributing to our decision: <br>
 Frequent customer involvement<br>
 Evolutionary artifacts<br>
 Rapid Prototyping<br>
 Relatively simple system design<br>
 Real world and educational experience<br>
-### With our chosen agile methodolgy being Scrum, our board will be populated with: <br>
+### Chosen Methodolgy:
+Scrum is our chosen methodology, and we will be using trello to track our backlog of tasks / stories for the development. The board will have the following 5 active columns: <br>
 Sprint Backlog<br>
 In Progress<br>
 Ready for Tests<br>
