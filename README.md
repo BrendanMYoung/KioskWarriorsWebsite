@@ -54,6 +54,7 @@ Test Metrics:N/A<be>
 
 ## Planned Milestones
 All due dates are subject to change as we develop the application and things may be pushed back (and most likely will) so we can incorporate any feedback if needed.
+
 |            Milestone           |                                                    Description                                                   |      Expected Date     |                 Status                 |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------|----------------------------------------|
 | Wireframes                     | Wireframe for the prototype.                                                                                     |          10/9          | First iteration/rough outlines started |
