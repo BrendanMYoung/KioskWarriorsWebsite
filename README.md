@@ -55,8 +55,8 @@ Test Metrics:N/A<be>
 ## Planned Milestones
 All due dates are subject to change as we develop the application and things may be pushed back (and most likely will) so we can incorporate any feedback if needed.
 |            Milestone           |                                                    Description                                                   |      Expected Date     |                 Status                 |
-|:------------------------------:|:----------------------------------------------------------------------------------------------------------------:|:----------------------:|:--------------------------------------:|
-| Wireframes                     | Wireframe for prototype.                                                                                         |          10/9          | First iteration/rough outlines started |
+|--------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------|----------------------------------------|
+| Wireframes                     | Wireframe for the prototype.                                                                                     |          10/9          | First iteration/rough outlines started |
 | Project Set-up                 | Have the development environment <br>setup with the pipeline for <br>our entire application.                     |          10/16         | Started                                |
 | Data Model                     | Schema of our database.                                                                                          |          10/16         | First iteration/rough outlines started |
 | system Architecture            | A higher level of architecture for <br>our system.                                                               |          10/16         | Rough outline Started                  |
