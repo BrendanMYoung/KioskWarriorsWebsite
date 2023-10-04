@@ -29,8 +29,6 @@ The purpose of the project is to automate the employer/student interactions duri
 ## Domain Model
 ![Domain Model](domain_model.png)
 
-[Domain Model.pdf](https://github.com/BrendanMYoung/KioskWarriorsWebsite/files/12694047/Domain.Model.pdf)
-
 ## Development Methodology
 ### Reasoning
 Our team has decided to go with an agile methodology to achieve the frequent deliverables required for this project. There are a few main factors contributing to our decision: <br>
@@ -52,15 +50,22 @@ Sprint Velocity: N/A <br>
 Learnability: N/A<br>
 Ease of use: N/A<br>
 Defects: N/A<br>
-Test Metrics:N/A<br>
-## Milestones
-Authentication with Symplicity <br>
-Backend dataflow<br>
-Scheduling<br>
-Employer View<br>
-Student View<br>
-Interview Notifications<br>
-Administration Tools<br>
+Test Metrics:N/A<be>
+
+## Planned Milestones
+All due dates are subject to change as we develop the application and things may be pushed back (and most likely will) so we can incorporate any feedback if needed.
+|            Milestone           |                                                    Description                                                   |      Expected Date     |                 Status                 |
+|:------------------------------:|:----------------------------------------------------------------------------------------------------------------:|:----------------------:|:--------------------------------------:|
+| Wireframes                     | Wireframe for prototype.                                                                                         |          10/9          | First iteration/rough outlines started |
+| Project Set-up                 | Have the development environment <br>setup with the pipeline for <br>our entire application.                     |          10/16         | Started                                |
+| Data Model                     | Schema of our database.                                                                                          |          10/16         | First iteration/rough outlines started |
+| system Architecture            | A higher level of architecture for <br>our system.                                                               |          10/16         | Rough outline Started                  |
+| Authentication With Simplicity | Have a working connection/sign in <br>with simplicity APIs.                                                      |          10/23         |                                        |
+| Scheduling                     | Have a working view for employers and students.                                                                  |          11/20         |                                        |
+| Interview Notifications        | Notifications in schedules for employers <br>that a student has arrived (silently).                              |          12/4          |                                        |
+| Administration Tools           | Administration tools that are quality of <br>life for RIT/Schools to manage information. <br>Developed as we go. |           2/5          |                                        |
+| Feature Complete               | All of the necessary features have been implemented.                                                             |           4/1          |                                        |
+| Code Freeze                    | No more feature development, <br>only bug fixes and such.                                                        | Week 12 <br>Semester 2 |                                        |
 
 
 ## Communication Plan
