@@ -18,12 +18,12 @@ The purpose of the project is to automate the employer/student interactions duri
 
 | Name                 | Role                        | Week 2 Hours | Week 3 Hours | Week 4 Hours | Week 5 Hours | Week 6 Hours | Week 7 Hours | Week 8 Hours | Week 9 Hours | Week 10 Hours | Week 11 Hours | Week 12 Hours | Week 13 Hours | Week 14 Hours | Week 15 Hours |
 | -------------------- | --------------------------- | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Brendan              | Full-Stack                  | 3            | 3            | 3            | 5            | 4            |              |              |              |               |               |               |               |               |               |
-| Evan                 | Scrum Master/PM             | 3            | 3            | 3            | 5.25         | 3            |              |              |              |               |               |               |               |               |               |
+| Brendan              | Full-Stack                  | 3            | 3            | 3            | 5            | 4            | 7.5          |              |              |               |               |               |               |               |               |
+| Evan                 | Scrum Master/PM             | 3            | 3            | 3            | 5.25         | 3            | 2            |              |              |               |               |               |               |               |               |
 | Frank                | Tech Lead                   | 3            | 3            | 3            | 4            | 2            |              |              |              |               |               |               |               |               |               |
-| Geran                | Documentation / Backend     | 3            | 3            | 3            | 4            | 4            |              |              |              |               |               |               |               |               |               |
-| Jack                 | Communications Lead/Backend | 3            | 3            | 3            | 5            | 3            |              |              |              |               |               |               |               |               |               |
-| Jason                | Frontend Dev                | 3            | 3            | 3            | 6            | 3            |              |              |              |               |               |               |               |               |               |
+| Geran                | Documentation / Backend     | 3            | 3            | 3            | 4            | 4            | 3            |              |              |               |               |               |               |               |               |
+| Jack                 | Communications Lead/Backend | 3            | 3            | 3            | 5            | 3            | 3            |              |              |               |               |               |               |               |               |
+| Jason                | Frontend Dev                | 3            | 3            | 3            | 6            | 3            | 3            |              |              |               |               |               |               |               |               |
 | =/=                  | Total Hours for Week        | 18           | 18           | 18           | 29.25        | 19           | 0            | 0            | 0            | 0             | 0             | 0             | 0             | 0             | 0             |
 
 ## Domain Model
@@ -58,10 +58,11 @@ All due dates are subject to change as we develop the application and things may
 |            Milestone           |                                                    Description                                                   |      Expected Date     |                 Status                 |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------|----------------------------------------|
 | Wireframes                     | Wireframe for the prototype.                                                                                     |          10/9          | First iteration/rough outlines started |
-| Project Set-up                 | Have the development environment <br>setup with the pipeline for <br>our entire application.                     |          10/16         | Started                                |
-| Data Model                     | Schema of our database.                                                                                          |          10/16         | First iteration/rough outlines started |
-| system Architecture            | A higher level of architecture for <br>our system.                                                               |          10/16         | Rough outline Started                  |
-| Authentication With Simplicity | Have a working connection/sign in <br>with simplicity APIs.                                                      |          10/23         |                                        |
+| Project Set-up                 | Have the development environment set up for individual work                                                      |          10/16         | Complete                               |
+| Pipeline                       | Pipeline for deploying to a development server                                                                   |          10/26         | On-track                               |
+| Data Model                     | Schema of our database.                                                                                          |          10/16         | On-track (should be done this week)    |
+| system Architecture            | A higher level of architecture for <br>our system.                                                               |          10/16         | Complete                               |
+| Authentication With Simplicity | Have a working connection/sign in <br>with simplicity APIs.                                                      |          10/23         | N/A                                    |
 | Scheduling                     | Have a working view for employers and students.                                                                  |          11/20         |                                        |
 | Interview Notifications        | Notifications in schedules for employers <br>that a student has arrived (silently).                              |          12/4          |                                        |
 | Administration Tools           | Administration tools that are quality of <br>life for RIT/Schools to manage information. <br>Developed as we go. |           2/5          |                                        |
@@ -70,7 +71,7 @@ All due dates are subject to change as we develop the application and things may
 
 
 ## Communication Plan
-Our communication plan is to meet with our stakeholders every Thursday to go over requirements, project process, and any questions we have concerning the project. Everytime we finish a deliverable, the communications lead will send it to both our coach and the sponsors for their feedback. We also have our coach present in the discord, so he is easily able to get in contact with us whenever needed. Furthermore, additional stakeholder management will come in the form of demoing our prototype to them at the end of each development cycle.
+Our communication plan is to meet with our stakeholders every Thursday to go over requirements, the project process, and any questions we have concerning the project. Every time we finish a deliverable, the communications lead will send it to both our coach and the sponsors for their feedback. We also have our coach present in the discord, so he is easily able to get in contact with us whenever needed. Furthermore, additional stakeholder management will come in the form of demoing our prototype to them at the end of each development cycle.
 
 ## Keywords
 Career, Fair, Scheduling, Symplicity, Interview
