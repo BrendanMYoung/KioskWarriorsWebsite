@@ -57,17 +57,27 @@ All due dates are subject to change as we develop the application and things may
 
 |            Milestone           |                                                    Description                                                   |      Expected Date     |                 Status                 |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------|----------------------------------------|
-| Wireframes                     | Wireframe for the prototype.                                                                                     |          10/9          | First iteration/rough outlines started |
+| Wireframes                     | Wireframe for the prototype.                                                                                     |          10/9          | Complete                               |
 | Project Set-up                 | Have the development environment set up for individual work                                                      |          10/16         | Complete                               |
-| Pipeline                       | Pipeline for deploying to a development server                                                                   |          10/26         | On-track                               |
-| Data Model                     | Schema of our database.                                                                                          |          10/16         | On-track (should be done this week)    |
-| system Architecture            | A higher level of architecture for <br>our system.                                                               |          10/16         | Complete                               |
+| Pipeline                       | Pipeline for deploying to a development server                                                                   |          10/26         | Complete                               |
+| Data Model                     | Schema of our database.                                                                                          |          10/16         | Complete                               |
+| System Architecture            | A higher level of architecture for <br>our system.                                                               |          10/16         | Complete                               |
 | Authentication With Simplicity | Have a working connection/sign in <br>with simplicity APIs.                                                      |          10/23         | N/A                                    |
-| Scheduling                     | Have a working view for employers and students.                                                                  |          11/20         |                                        |
-| Interview Notifications        | Notifications in schedules for employers <br>that a student has arrived (silently).                              |          12/4          |                                        |
-| Administration Tools           | Administration tools that are quality of <br>life for RIT/Schools to manage information. <br>Developed as we go. |           2/5          |                                        |
-| Feature Complete               | All of the necessary features have been implemented.                                                             |           4/1          |                                        |
-| Code Freeze                    | No more feature development, <br>only bug fixes and such.                                                        | Week 12 <br>Semester 2 |                                        |
+| Scheduling                     | Have a working view for employers and students.                                                                  |          11/20         | Started                                |
+| "Why is Our Project Important?" Video | Class Deliverable                                                                                         |          11/29         |                                        |
+| First End-Of-Semester Presentation    | Class Deliverable                                                                                         |          12/11         |                                        |
+| Interview Notifications        | Notifications in schedules for employers <br>that a student has arrived (silently).                              |          12/11         |                                        |
+| First End-of-Semester Project Review Document  | Class Deliverable                                                                                |          12/15         |                                        |
+| First End-Of-Semester Retrospective            | Class Deliverable                                                                                |          12/16         |                                        |
+| Administration Tools           | Administration tools that are quality of <br>life for RIT/Schools to manage information. <br>Developed as we go. |           2/19         |                                        |
+| Finalized Midterm Review Document              | Class Deliverable                                                                                |            3/9         |                                        |
+| Feature Complete               | All of the necessary features have been implemented.                                                             |           3/31         |                                        |
+| Second Semester Code Freeze    | No more feature development, <br>only bug fixes and such.                                                        |      4/5 at latest     |                                        |
+| "What are the Results of Our Project?" Video   | Class Deliverable                                                                                |           4/16         |                                        |
+| Technical Report               | Class Deliverable                                                                                                |            5/4         |                                        |
+| Final End-Of-Semester Team Presentation        | Class Deliverable                                                                                |            5/7         |                                        |
+| Final End-Of-Semester Retrospective            | Class Deliverable                                                                                |            5/9         |                                        |
+| Finalized Project Review Document              | Class Deliverable                                                                                |            5/9         |                                        |
 
 
 ## Communication Plan
