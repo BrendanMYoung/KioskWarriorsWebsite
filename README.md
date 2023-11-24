@@ -15,16 +15,16 @@ The purpose of the project is to automate the employer/student interactions duri
 
 ## Hours
 [Link to hours](https://docs.google.com/spreadsheets/d/1xAHLvo-fBwB6ZvhZdQ5gmMZXveX7XbWQiBJ8mm3cors/edit?usp=sharing)
-
+### Fall Semester
 | Name                 | Role                        | Week 2 Hours | Week 3 Hours | Week 4 Hours | Week 5 Hours | Week 6 Hours | Week 7 Hours | Week 8 Hours | Week 9 Hours | Week 10 Hours | Week 11 Hours | Week 12 Hours | Week 13 Hours | Week 14 Hours | Week 15 Hours |
 | -------------------- | --------------------------- | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Brendan              | Full-Stack                  | 3            | 3            | 3            | 5            | 4            | 7.5          | 3            | 12           |               |               |               |               |               |               |
-| Evan                 | Scrum Master/PM             | 3            | 3            | 3            | 5.25         | 3            | 2            | 4            | 4            |               |               |               |               |               |               |
-| Frank                | Tech Lead                   | 3            | 3            | 3            | 4            | 2            | 5            | 4            | 8            |               |               |               |               |               |               |
-| Geran                | Documentation / Backend     | 3            | 3            | 3            | 4            | 4            | 3            | 4            | 9            |               |               |               |               |               |               |
-| Jack                 | Communications Lead/Backend | 3            | 3            | 3            | 5            | 3            | 3            | 4            | 5            |               |               |               |               |               |               |
-| Jason                | Frontend Dev                | 3            | 3            | 3            | 6            | 3            | 3            | 3            | 4            |               |               |               |               |               |               |
-| =/=                  | Total Hours for Week        | 18           | 18           | 18           | 29.25        | 19           | 23.5         | 22           | 39           | 0             | 0             | 0             | 0             | 0             | 0             |
+| Brendan              | Full-Stack                  | 3            | 3            | 3            | 5            | 4            | 7.5          | 3            | 12           | 4.5           | 3             | 7             |               |               |               |
+| Evan                 | Scrum Master/PM             | 3            | 3            | 3            | 5.25         | 3            | 2            | 4            | 4            | 4.5           | 5             | 4             |               |               |               |
+| Frank                | Tech Lead                   | 3            | 3            | 3            | 4            | 2            | 5            | 4            | 8            | 10            | 6             | 23            |               |               |               |
+| Geran                | Documentation / Backend     | 3            | 3            | 3            | 4            | 4            | 3            | 4            | 9            | 4             | 6.5           | 8.5           |               |               |               |
+| Jack                 | Communications Lead/Backend | 3            | 3            | 3            | 5            | 3            | 3            | 4            | 5            | 10            | 2.5           | 3.5           |               |               |               |
+| Jason                | Frontend Dev                | 3            | 3            | 3            | 6            | 3            | 3            | 3            | 4            | 5.5           | 3             | 8             |               |               |               |
+| =/=                  | Total Hours for Week        | 18           | 18           | 18           | 29.25        | 19           | 23.5         | 22           | 43           | 38.5          | 26            | 54            | 0             | 0             | 0             |
 
 ## Domain Model
 ![Domain Model](domain_model.png)
