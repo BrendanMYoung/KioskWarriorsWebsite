@@ -1,4 +1,4 @@
-# Kiosk Warriors
+=# Kiosk Warriors
 Group Senior Project Front-facing Website
 
 
@@ -62,9 +62,9 @@ All due dates are subject to change as we develop the application and things may
 | Data Model                     | Schema of our database.                                                                                          |          10/16         | Complete                               |
 | System Architecture            | A higher level of architecture for <br>our system.                                                               |          10/16         | Complete                               |
 | Authentication With Simplicity | Have a working connection/sign in <br>with simplicity APIs.                                                      |          10/23         | N/A                                    |
-| Scheduling                     | Have a working view for employers and students.                                                                  |          11/30         | Started                                |
+| Scheduling                     | Have a working view for employers and students.                                                                  |          11/30         | Started - on track                     |
 | "Why is Our Project Important?" Video | Class Deliverable                                                                                         |          11/29         |                                        |
-| First End-Of-Semester Presentation    | Class Deliverable                                                                                         |          12/11         |                                        |
+| First End-Of-Semester Presentation    | Class Deliverable                                                                                         |          12/11         | Started                                |
 | Interview Notifications        | Notifications in schedules for employers <br>that a student has arrived (silently).                              |          12/11         |                                        |
 | First End-of-Semester Project Review Document  | Class Deliverable                                                                                |          12/15         |                                        |
 | First End-Of-Semester Retrospective            | Class Deliverable                                                                                |          12/16         |                                        |
