@@ -14,26 +14,27 @@ Geran - Documentation/Backend<br>
 The purpose of the project is to automate the employer/student interactions during the career fair. This includes signing up for and signing into interviews. Employers can create as many schedules as needed depending on how many interviewers they decide to bring to interview day.  After determining which students they will interview, employers can schedule the students on any of their schedules as long as the student is available during the chosen interview block. Each student will also have their own schedule which will let them view, cancel, and check in to interviews. When a student checks in or cancels an interview, the interviewer gets notified via a change in the status of the interview object on their schedule. The student’s schedule view will also help the student know where to go for their interview by including details such as which “zone” they will be interviewed in. The application must also be able to export all scheduled data to Symplicity’s systems. 
 
 ## Hours
-| Fall '23             |                             |
-| -------------------- | --------------------------- |
-| Name                 | Role                        | Week 2 Hours | Week 3 Hours | Week 4 Hours | Week 5 Hours | Week 6 Hours | Week 7 Hours | Week 8 Hours | Week 9 Hours | Week 10 Hours | Week 11 Hours | Week 12 Hours | Week 13 Hours | Week 14 Hours | Week 15 Hours |  |
-| Brendan              | Full-Stack                  | 3 | 3 | 3 | 5 | 4 | 7.5 | 3 | 12 | 4.5 | 3 | 7 |  |  |  |  |
-| Evan                 | Scrum Master/PM             | 3 | 3 | 3 | 5.25 | 3 | 2 | 4 | 4 | 4.5 | 5 | 4 | 2.5 | 8 |  |  |
-| Frank                | Tech Lead                   | 3 | 3 | 3 | 4 | 2 | 5 | 4 | 8 | 10 | 6 | 23 |  |  |  |  |
-| Geran                | Documentation / Backend     | 3 | 3 | 3 | 4 | 4 | 3 | 4 | 9 | 4 | 6.5 | 8.5 | 7.5 | 3 |  |  |
-| Jack                 | Communications Lead/Backend | 3 | 3 | 3 | 5 | 3 | 3 | 4 | 5 | 10 | 2.5 | 3.5 | 2.5 | 3 |  |  |
-| Jason                | Frontend Dev                | 3 | 3 | 3 | 6 | 3 | 3 | 3 | 4 | 5.5 | 3 | 8 | 2.5 | 3 |  |  |
-| Total Hours for Week | 18                          | 18 | 18 | 29.25 | 19 | 23.5 | 22 | 42 | 38.5 | 26 | 54 | 15 | 17 | 0 |  |
-|                      |                             |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Spring '24           |
-| Name                 | Role                        | Week 1 Hours | Week 2 Hours | Week 3 Hours | Week 4 Hours | Week 5 Hours | Week 6 Hours | Week 7 Hours | Week 8 Hours | Week 9 Hours | Week 10 Hours | Week 11 Hours | Week 12 Hours | Week 13 Hours | Week 14 Hours | Week 15 Hours |
-| Brendan              | Full-Stack                  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Evan                 | Scrum Master/PM             |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Frank                | Tech Lead                   |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Geran                | Documentation / Backend     |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Jack                 | Communications Lead/Backend |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Jason                | Frontend Dev                |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Total Hours for Week | 0                           | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Fall '23             |                             |              |              |              |              |              |              |              |              |               |               |               |               |               |               |               |
+|----------------------|-----------------------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
+| Name                 | Role                        | Week 2 Hours | Week 3 Hours | Week 4 Hours | Week 5 Hours | Week 6 Hours | Week 7 Hours | Week 8 Hours | Week 9 Hours | Week 10 Hours | Week 11 Hours | Week 12 Hours | Week 13 Hours | Week 14 Hours | Week 15 Hours |               |
+| Brendan              | Full-Stack                  | 3            | 3            | 3            | 5            | 4            | 7.5          | 3            | 12           | 4.5           | 3             | 7             |               |               |               |               |
+| Evan                 | Scrum Master/PM             | 3            | 3            | 3            | 5.25         | 3            | 2            | 4            | 4            | 4.5           | 5             | 4             | 2.5           | 8             |               |               |
+| Frank                | Tech Lead                   | 3            | 3            | 3            | 4            | 2            | 5            | 4            | 8            | 10            | 6             | 23            |               |               |               |               |
+| Geran                | Documentation / Backend     | 3            | 3            | 3            | 4            | 4            | 3            | 4            | 9            | 4             | 6.5           | 8.5           | 7.5           | 3             |               |               |
+| Jack                 | Communications Lead/Backend | 3            | 3            | 3            | 5            | 3            | 3            | 4            | 5            | 10            | 2.5           | 3.5           | 2.5           | 3             |               |               |
+| Jason                | Frontend Dev                | 3            | 3            | 3            | 6            | 3            | 3            | 3            | 4            | 5.5           | 3             | 8             | 2.5           | 3             |               |               |
+| Total Hours for Week |                             | 18           | 18           | 18           | 29.25        | 19           | 23.5         | 22           | 42           | 38.5          | 26            | 54            | 15            | 17            | 0             |               |
+|                      |                             |              |              |              |              |              |              |              |              |               |               |               |               |               |               |               |
+| Spring '24           |                             |              |              |              |              |              |              |              |              |               |               |               |               |               |               |               |
+| Name                 | Role                        | Week 1 Hours | Week 2 Hours | Week 3 Hours | Week 4 Hours | Week 5 Hours | Week 6 Hours | Week 7 Hours | Week 8 Hours | Week 9 Hours  | Week 10 Hours | Week 11 Hours | Week 12 Hours | Week 13 Hours | Week 14 Hours | Week 15 Hours |
+| Brendan              | Full-Stack                  |              |              |              |              |              |              |              |              |               |               |               |               |               |               |               |
+| Evan                 | Scrum Master/PM             |              |              |              |              |              |              |              |              |               |               |               |               |               |               |               |
+| Frank                | Tech Lead                   |              |              |              |              |              |              |              |              |               |               |               |               |               |               |               |
+| Geran                | Documentation / Backend     |              |              |              |              |              |              |              |              |               |               |               |               |               |               |               |
+| Jack                 | Communications Lead/Backend |              |              |              |              |              |              |              |              |               |               |               |               |               |               |               |
+| Jason                | Frontend Dev                |              |              |              |              |              |              |              |              |               |               |               |               |               |               |               |
+| Total Hours for Week |                             | 0            | 0            | 0            | 0            | 0            | 0            | 0            | 0            | 0             | 0             | 0             | 0             | 0             | 0             | 0             |
+
 
 ## Domain Model
 ![Domain Model](domain_model.png)
